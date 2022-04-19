@@ -7,51 +7,7 @@
     }
   },
   "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "uw61304877",
-        "mag": 2.2,
-        "name":"XYZ",
-         "www": "www.El Trio Loco 2.com",
-        "time": 1504836765080,
-        "felt": null,
-        "tsunami": 0
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.568333,
-          48.699167,
-          3.29
-        ]
-      }
-    },
    
-   {
-      "type": "Feature",
-      "properties": {
-          "marker-color": "#e29c7e",
-        "marker-size": "medium",
-        "marker-symbol": "shop",
-        "name": "El Trio Loco 2",
-        
-        "www": "www.El Trio Loco 2.com",
-        "mag":3.7,
-        "time": 1504836433340,
-        "felt": 2,
-        "tsunami": 0
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -123.93865658159247,
-         45.71859028031322,
-          5
-        ]
-      }
-    },
-    
     {
       "type": "Feature",
       "properties": {
@@ -75,59 +31,6 @@
         ]
       }
     },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "nc72888096",
-        "mag": 2.03,
-        "time": 1504835142230,
-        "felt": 4,
-        "tsunami": 0
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.053667,
-          37.835167,
-          7.59
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "ak16821829",
-        "mag": 1.5,
-        "time": 1504834613166,
-        "felt": null,
-        "tsunami": 0
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -163.7652,
-          67.5597,
-          6.1
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "hv61900626",
-        "mag": 2.91,
-        "time": 1504833891990,
-        "felt": null,
-        "tsunami": 0
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.011833,
-          19.399333,
-          2.609
-        ]
-      }
-    }
+   
   ]
 }
