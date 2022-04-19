@@ -25,6 +25,31 @@
         ]
       }
     },
+   
+   {
+      "type": "Feature",
+      "properties": {
+          "marker-color": "#e29c7e",
+        "marker-size": "medium",
+        "marker-symbol": "shop",
+        "name": "El Trio Loco 2",
+        
+        "www": "www.El Trio Loco 2.com",
+        "mag":3.7,
+        "time": 1504836433340,
+        "felt": 2,
+        "tsunami": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.93865658159247,
+         45.71859028031322,
+          5
+        ]
+      }
+    },
+    
     {
       "type": "Feature",
       "properties": {
