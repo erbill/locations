@@ -1,7 +1,7 @@
 {
-   "features": [
-    {
-      "type": "Feature",
+     
+  "features": [
+    { "type": "Feature",
       "properties": {
        
         "name": "Likop",
@@ -16,8 +16,6 @@
       },
       "id": "8d0801fdaf9a097d944e5c275dbfc131"
     },
-  "features": [
-    {
       "type": "Feature",
       "properties": {
         "marker-color": "#e29c7e",
