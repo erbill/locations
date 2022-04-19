@@ -28,6 +28,11 @@
     {
       "type": "Feature",
       "properties": {
+          "marker-color": "#e29c7e",
+        "marker-size": "medium",
+        "marker-symbol": "shop",
+        "name": "Unfurl",
+        
         "www": "www.unfurl.com",
         "mag":3.7,
         "time": 1504836433340,
