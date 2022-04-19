@@ -11,7 +11,7 @@
       "type": "Feature",
       "properties": {
         "id": "uw61304877",
-        "web": "www.123.com",
+        "mag": 2.2,
         "time": 1504836765080,
         "felt": null,
         "tsunami": 0
@@ -28,8 +28,8 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "us2000ahu8",
-        "www":"www.123.com",
+        "www": "www.unfurl.com",
+        "mag":3.7,
         "time": 1504836433340,
         "felt": 2,
         "tsunami": 0
