@@ -19,6 +19,25 @@
       },
       "id": "8d0801fdaf9a097d944e5c275dbfc321"
     },
+     {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e29c7e",
+        "marker-size": "large",
+        "marker-symbol": "shop",
+        "name": "Miasadtown Surf Shop",
+        "website": "https://midtownsurfshop.com",
+        "Ordersize": 25
+      },
+      "geometry": {
+        "coordinates": [
+          -122.111141,
+          36.989377
+        ],
+        "type": "Point"
+      },
+      "id": "123"
+    },
      
     {
       "type": "Feature",
