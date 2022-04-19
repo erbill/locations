@@ -29,7 +29,7 @@
       "type": "Feature",
       "properties": {
         "id": "us2000ahu8",
-        "mag": 3.7,
+        "www": 3.7,
         "time": 1504836433340,
         "felt": 2,
         "tsunami": 0
