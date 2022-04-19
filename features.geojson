@@ -77,25 +77,7 @@
         },
         "id": "bc86ed1e1c1ffbd488b7ea6e6833ffb4"
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "marker-color": "#e29c7e",
-          "marker-size": "medium",
-          "marker-symbol": "shop",
-          "name": "Unfurl 2",
-          "website": "www.unfurl2.com",
-          "Ordersize": 10
-        },
-        "geometry": {
-          "coordinates": [
-            -123.734198,
-            45.419099
-          ],
-          "type": "Point"
-        },
-        "id": "bc88ed1e1c1ffbd488b7ea6e6833ffb4"
-      }
+      
     ],
     "type": "FeatureCollection"
   }
