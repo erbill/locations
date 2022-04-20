@@ -17,13 +17,12 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Less Info",
-				"website": "https://less-info.com"
+				"name": "Loop & Tie",
+				"website": "https://www.loopandtie.com/"
 			},
 			"geometry": {
 				"coordinates": [
-					-122.111141,
-					36.889377
+					-73.98432460150104,40.70300108439627
 				],
 				"type": "Point"
 			},
