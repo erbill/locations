@@ -1,5 +1,32 @@
 {
-	"features": [{
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Pasoluna"
+			},
+			"geometry": {
+				"coordinates": [
+					  -1.778898324458793,53.832384780973975
+				],
+				"type": "Point"
+			},
+			"id": "0003"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Umami Interiors"
+			},
+			"geometry": {
+				"coordinates": [
+					  -122.29643563039701,37.89046415508259
+				],
+				"type": "Point"
+			},
+			"id": "0002"
+		},
+		     {
 			"type": "Feature",
 			"properties": {
 				"name": "Word After Word Books"
