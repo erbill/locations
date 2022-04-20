@@ -1,6 +1,59 @@
 {
 	"features": [
+		 {
+			"type": "Feature",
+			"properties": {
+				"name": "PickEco Refills"
+			},
+			"geometry": {
+				"coordinates": [
+					 -121.95336967246347,49.17225045340739
+				],
+				"type": "Point"
+			},
+			"id": "0007"
+		},
+		
+		     {
+			"type": "Feature",
+			"properties": {
+				"name": "Hawk & Hive"
+			},
+			"geometry": {
+				"coordinates": [
+					 -74.78485422845263,42.18974706173667
+				],
+				"type": "Point"
+			},
+			"id": "0006"
+		},
+		     {
+			"type": "Feature",
+			"properties": {
+				"name": "Aldrich's"
+			},
+			"geometry": {
+				"coordinates": [
+					  -72.0256386879314,44.0978411781191
+				],
+				"type": "Point"
+			},
+			"id": "0005"
+		},
 		{
+			"type": "Feature",
+			"properties": {
+				"name": "Eco Evolution"
+			},
+			"geometry": {
+				"coordinates": [
+					  -73.41635431498472,41.099175193701186
+				],
+				"type": "Point"
+			},
+			"id": "0004"
+		},
+		     {
 			"type": "Feature",
 			"properties": {
 				"name": "Pasoluna"
