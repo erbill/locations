@@ -2,6 +2,24 @@
 	"features": [{
 			"type": "Feature",
 			"properties": {
+				"name": "Word After Word Books",
+			},
+			"geometry": {
+				"coordinates": [
+					 -120.1846801846565,39.32869673427917
+				],
+				"type": "Point"
+			},
+			"id": "0001"
+		},
+		
+		
+		
+		
+		
+		{
+			"type": "Feature",
+			"properties": {
 				"name": "Midtown Surf Shop",
 				"website": "https://midtownsurfshop.com"
 			},
