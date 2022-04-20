@@ -1,80 +1,79 @@
 {
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#e29c7e",
-        "marker-size": "large",
-        "marker-symbol": "shop",
-        "name": "Midtown Surf Shop",
-        "website": "https://midtownsurfshop.com",
-        "Ordersize": 25
-      },
-      "geometry": {
-        "coordinates": [
-          -122.011141,
-          36.979377
-        ],
-        "type": "Point"
-      },
-      "id": "8d0801fdaf9a097d944e5c275dbfc322"
-    },
-     {
-      "type": "Feature",
-      "properties": {
-        "name": "Less Info",
-        "website": "lessinfo.com",
-       
-      },
-      "geometry": {
-        "coordinates": [
-          -122.111141,
-          36.889377
-        ],
-        "type": "Point"
-      },
-      "id": "123"
-    },
-     
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#e29c7e",
-        "marker-size": "large",
-        "marker-symbol": "shop",
-        "name": "Midtown Surf Shop 2",
-        "website": "https://midtownsurfshop.com",
-        "Ordersize": 25
-      },
-      "geometry": {
-        "coordinates": [
-          -122.02,
-          36.8
-        ],
-        "type": "Point"
-      },
-      "id": "8d0801fdaf9a097d944e5c275dbfc421"
-    },
+	"features": [{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#e29c7e",
+				"marker-size": "large",
+				"marker-symbol": "shop",
+				"name": "Midtown Surf Shop",
+				"website": "https://midtownsurfshop.com",
+				"Ordersize": 25
+			},
+			"geometry": {
+				"coordinates": [
+					-122.011141,
+					36.979377
+				],
+				"type": "Point"
+			},
+			"id": "8d0801fdaf9a097d944e5c275dbfc322"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Less Info",
+				"website": "https://less-info.com"
 
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#e29c7e",
-        "marker-size": "medium",
-        "marker-symbol": "shop",
-        "name": "Unfurl",
-        "website": "www.unfurl.com",
-        "Ordersize": 10
-      },
-      "geometry": {
-        "coordinates": [
-          -123.934198,
-          45.719099
-        ],
-        "type": "Point"
-      },
-      "id": "bc86ed1e1c1ffbd488b7ea6e6833ffb2"
-    }
-  ],
-  "type": "FeatureCollection"
+			},
+			"geometry": {
+				"coordinates": [
+					-122.111141,
+					36.889377
+				],
+				"type": "Point"
+			},
+			"id": "123"
+		},
+
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#e29c7e",
+				"marker-size": "large",
+				"marker-symbol": "shop",
+				"name": "Midtown Surf Shop 2",
+				"website": "https://midtownsurfshop.com",
+				"Ordersize": 25
+			},
+			"geometry": {
+				"coordinates": [
+					-122.02,
+					36.8
+				],
+				"type": "Point"
+			},
+			"id": "8d0801fdaf9a097d944e5c275dbfc421"
+		},
+
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#e29c7e",
+				"marker-size": "medium",
+				"marker-symbol": "shop",
+				"name": "Unfurl",
+				"website": "www.unfurl.com",
+				"Ordersize": 10
+			},
+			"geometry": {
+				"coordinates": [
+					-123.934198,
+					45.719099
+				],
+				"type": "Point"
+			},
+			"id": "bc86ed1e1c1ffbd488b7ea6e6833ffb2"
+		}
+	],
+	"type": "FeatureCollection"
 }
