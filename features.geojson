@@ -2,7 +2,7 @@
 	"features": [{
 			"type": "Feature",
 			"properties": {
-				"name": "Word After Word Books",
+				"name": "Word After Word Books"
 			},
 			"geometry": {
 				"coordinates": [
