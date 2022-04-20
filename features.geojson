@@ -22,17 +22,14 @@
      {
       "type": "Feature",
       "properties": {
-        "marker-color": "#e29c7e",
-        "marker-size": "large",
-        "marker-symbol": "shop",
-        "name": "Miasadtown Surf 22Shop",
-        "website": "https://midto2wnsurfshop.com",
-        "Ordersize": 25
+        "name": "Less Info",
+        "website": "less info.com",
+       
       },
       "geometry": {
         "coordinates": [
           -122.111141,
-          36.989377
+          36.889377
         ],
         "type": "Point"
       },
@@ -56,7 +53,7 @@
         ],
         "type": "Point"
       },
-      "id": "8d0801fdaf9a097d944e5c275dbfc321"
+      "id": "8d0801fdaf9a097d944e5c275dbfc421"
     },
 
     {
@@ -76,7 +73,7 @@
         ],
         "type": "Point"
       },
-      "id": "bc86ed1e1c1ffbd488b7ea6e6833ffb4"
+      "id": "bc86ed1e1c1ffbd488b7ea6e6833ffb2"
     }
   ],
   "type": "FeatureCollection"
